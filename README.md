@@ -2,3 +2,6 @@
 - 🛠 Atualmente aprendendo python
 - 🛠 Front End </>
 - ❤ Da @elooa
+- 📌 Meus  Projetos: https://discord.com/invite/jgV45JZSRz - Liberty City - RPG
+- Brasil PlayShox - https://discord.com/invite/bps
+- ⚙ Pawn, Html, C# C++, Bot-Creator, SA-MP <3
